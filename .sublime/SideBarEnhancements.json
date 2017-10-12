@@ -1,0 +1,15 @@
+
+{
+    "bower_components/openui5-sap.m/":{
+        "url_testing":"http://localhost:8080/",
+        "url_production":"http://domain.tld/"
+    },
+    "experimental/":{
+        "url_testing":"http://experimental/",
+        "url_production":"http://domain.tld/"
+    },
+    "":{
+        "url_testing":"http://the_url_for_the_project_root/",
+        "url_production":"http://the_url_for_the_project_root/"
+    }
+}
